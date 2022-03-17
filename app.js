@@ -216,8 +216,5 @@ function computerPlay(){
   if(cont == 0 && filled < 9){
       computerPlay();
   }
-  //zerando a jogadas
-  player1 =0;
-  player2 =0;
 
 }
